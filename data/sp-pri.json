@@ -1,0 +1,70 @@
+
+[
+       {
+        "materia": "PRÁCTICAS PROFESIONALIZANTES",
+        "docente": "GAREIS Claudio",
+        "codigo": "cksbx56",	
+        "email": "regencia.tecnica@epet6realico.edu.ar "  
+        },
+        {
+        "materia": "MATEMÁTICA",	
+        "docente": "KRANK  Vanesa",	
+        "codigo": "ozbr3qs",	
+        "email": "vanesa.krank@epet6realico.edu.ar " 
+        },
+        {
+        "materia": "MARCO JURÍDICO",	
+        "docente": "PEIRANO  Maricel",	
+        "codigo": "c3pmuqd",	
+        "email": "maricel.peirano@epet6realico.edu.ar"
+        },
+        {
+        "materia": "ADMINISTRACIÓN Y GESTIÓN DE LA PRODUCCIÓN",	
+        "docente": "FIERRO Marcos",
+        "codigo": "ggt3hwo",	
+        "email": "marcos.fierro@epet6realico.edu.ar  "  
+        },
+        {
+        "materia": "ENERGÍAS RENOVABLES",	
+        "docente": "MORERA  Bárbara",	
+        "codigo": "sogshll",	
+        "email": "barbara.morera@epet6realico.edu.ar"
+        },
+        {
+        "materia": "ELECTRÓNICA",	
+        "docente": "GARRONE Pablo || Francisco Vissio (sin cubrir)",	
+        "codigo": "----------",
+        "email": "pablo.garrone@epet6realico.edu.ar" 
+    },
+        {
+        "materia": "TALLER DE INSTALACIONES ELÉCTRICAS",
+        "docente": "LASCALEA  Ignacio",	
+        "codigo": "gafz2p4",
+        "email": "----------"
+        },
+        {
+        "materia": "TALLER DE MECANIZADO",	
+        "docente": "FIERRO  Marcos",	
+        "codigo": "jzpq5tv",
+        "email": "marcos.fierro@epet6realico.edu.ar  " 
+        },
+        {
+        "materia": "MANTENIMIENTO DE EQUIPOS E INSTALACIONES ELECTROMECÁNICAS",	
+        "docente": "CORREAS  Jorge",
+        "codigo": "Burbuja A: mdravh4 || Burbuja B: ac2ewjf",	
+        "email": "jorge.correas@epet6realico.edu.ar " 
+        },
+        {
+        "materia": "PROYECTO DE EQUIPOS E INSTALACIONES ELECTROMECÁNICAS",	
+        "docente": "ÁLVAREZ  Martín",	
+        "codigo": "i2tnc5n",	
+        "email": "hector.lucero@epet6realico.edu.ar"
+        },
+        {
+        "materia": "APLICACIÓN DE SISTEMAS AUTOMÁTICOS Y DE CONTROL",
+        "docente": "",
+        "codigo": "-------------",
+        "email": "--------------"		
+        }	  
+        
+]

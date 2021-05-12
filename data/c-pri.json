@@ -1,0 +1,148 @@
+
+[
+    {
+    "materia": "LENGUA Y LITERATURA",
+    "docente": "AUDISIO  Elizabeth",	
+    "codigo": "fnrfv57",	
+    "email": "elizabeth.audisio@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "MATEMÁTICA",	
+    "docente": "LLAHI DE LA IGLESIA Vanesa",	
+    "codigo": "Grupo A: kanrtjg  Grupo B: xzqzmyf",	     
+    "email": "vanesa.llahi@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "GEOGRAFÍA",	
+    "docente": "BERTONE M. José",	
+    "codigo": "mbw65tc",	
+    "email": "maria.bertone@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "INGLÉS",
+    "docente": "TORAL  Lucila",	
+    "codigo": "Grupo A: xqlunrj    Grupo B:  x2esdsh",	
+    "email": "lucila.toral@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "EDUCACIÓN FÍSICA",
+    "docente": "MONTIEL, Vanesa",	
+    "codigo": "vsvlmhs",	
+    "email": "vanesa.montiel@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "QUÍMICA",	
+    "docente": "DEL OLMO  Juan   Sup. ROSSET Clarisa",	
+    "codigo": "jbm6fhc",
+    "email": "juan.delolmo@epet6realico.edu.ar     clarisa.rosset@epet6realico.edu.ar"
+    },
+    {
+    "materia": "FÍSICA",	
+    "docente": "CRAVERO  Mónica",	
+    "codigo": "syzgux5",
+    "email": "monica.cravero@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "MATERIALES",	
+    "docente": "TORRES  Ana",	
+    "codigo": "2epmdal",	
+    "email": "ana.torres@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "ELECTROTECNIA",	
+    "docente": "ROSSI  Mauro",	
+    "codigo": "esuu4j6",	
+    "email": "mauro.rossi@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "DISEÑO ASISTIDO (CAD) ",	
+    "docente": "CRAVERO  Mónica",	
+    "codigo": "u3lqn5n",	
+    "email": "monica.creavero@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "TALLER DE INSTALACIONES ELÉCTRICAS",
+    "docente": "MANASSERO Diego",	
+    "codigo": "4npu7ne",	
+    "email": "diego.manassero@epet6realico.edu.ar "
+    },
+    {
+    "materia": "TALLER DE MECANIZADO",	
+    "docente": "MORALES  Daniel",	
+    "codigo": "ocrklix      I A     4yhmwbl   I B",	
+    "email": "daniel.morales@epet6realico.edu.ar "
+    },       
+        
+    {
+    "materia": "LENGUA Y LITERATURA",
+    "docente": "AUDISIO  Elizabeth",	
+    "codigo": "fnrfv57",	
+    "email": "elizabeth.audisio@epet6realico.edu.ar "
+    },
+    {
+    "materia": "MATEMÁTICA",	
+    "docente": "LLAHI DE LA IGLESIA Vanesa",	
+    "codigo": "Grupo A: kanrtjg   Grupo B: xzqzmyf",	
+    "email": "vanesa.llahi@epet6realico.edu.ar "
+    },
+    {
+    "materia": "GEOGRAFÍA",	
+    "docente": "BERTONE M. José",	
+    "codigo": "mbw65tc",	
+    "email": "maria.bertone@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "INGLÉS",
+    "docente": "TORAL  Lucila",	
+    "codigo": "Grupo A: xqlunrj    Grupo B:  x2esdsh",	
+    "email": "lucila.toral@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "EDUCACIÓN FÍSICA",
+    "docente": "MONTIEL, Vanesa",	
+    "codigo": "vsvlmhs",	
+    "email": "vanesa.montiel@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "QUÍMICA",	
+    "docente": "DEL OLMO  Juan   Sup. ROSSET Clarisa",	
+    "codigo": "jbm6fhc",
+    "email": "juan.delolmo@epet6realico.edu.ar     clarisa.rosset@epet6realico.edu.ar"
+    },
+    {
+    "materia": "FÍSICA",	
+    "docente": "CRAVERO  Mónica",	
+    "codigo": "syzgux5",
+    "email": "monica.cravero@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "MATERIALES",	
+    "docente": "TORRES  Ana",	
+    "codigo": "2epmdal",	
+    "email": "ana.torres@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "ELECTROTECNIA",	
+    "docente": "ROSSI  Mauro",	
+    "codigo": "esuu4j6",	
+    "email": "mauro.rossi@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "DISEÑO ASISTIDO (CAD) ",	
+    "docente": "CRAVERO  Mónica",	
+    "codigo": "u3lqn5n",	
+    "email": "monica.creavero@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "TALLER DE INSTALACIONES ELÉCTRICAS",
+    "docente": "MANASSERO Diego",	
+    "codigo": "4npu7ne",	
+    "email": "diego.manassero@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "TALLER DE MECANIZADO",	
+    "docente": "MORALES  Daniel",	
+    "codigo": "ocrklix      I A     4yhmwbl   I B",	
+    "email": "daniel.morales@epet6realico.edu.ar "
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+    "materia": "LENGUA Y LITERATURA",
+    "docente": "AUDISIO Elizabeth",	
+    "codigo": "b4gfv2z" ,	
+    "email": "elizabeth.audisio@epet6realico.edu.ar"
+    },
+
+    {
+    "materia":  "HISTORIA",
+    "docente": "MOLINO Nadia",	
+    "codigo": "a72ereu",	
+    "email": "nadia.molino@epet6realico.edu.ar"
+    },
+    {
+    "materia": "GEOGRAFÍA",	
+    "docente": "GARCIA CHIARI Vanesa",	
+    "codigo": "6735hen",	
+    "email": "vanesa.garcia@epet6realico.edu.ar"
+    },
+    {
+    "materia": "INGLÉS",	   
+    "docente": "CHIESA Graciela",
+    "codigo": "pzem3of",
+    "email": "graciela.chiesa@epet6realico.edu.ar"
+    },
+    {
+    "materia": "EDUCACIÓN FÍSICA",
+    "docente": "DIAZ Ivana",
+    "codigo": "wvgoei2",
+    "email": "ivana.diaz@epet6realico.edu.ar"
+    },
+    {
+    "materia": "CONSTRUCCIÓN DE LA CIUDADANÍA",
+    "docente": "PRATO Ana Paula",
+    "codigo": "Qnlmmxe",
+    "email": "ana.prato@epet6realico.edu.ar"
+    },
+    {
+    "materia": "EDUCACIÓN ARTÍSTICA: MÚSICA",
+    "docente":  "MARTINEZ SANCHEZ, Silvana",
+    "codigo": "p6lpmyo",
+    "email": "silvana.martinez@epet6realico.edu.ar"
+    },
+    {
+    "materia": "TOyEA",
+    "docente": "SANCHES, Gisela Evelyn",
+    "codigo": "bni6eb5",
+    "email": "gisela.sanches@epet6realico.edu.ar"
+    },
+    {
+    "materia": "MATEMÁTICA",	
+    "docente": "KRANK  Vanesa",
+    "codigo": "zg54v6s",
+    "email": "vanesa.krank@epet6realico.edu.ar"
+    },
+    {
+    "materia": "BIOLOGÍA",
+    "docente": "GONELLA Laura",
+    "codigo": "Ibqasup ",
+    "email": "laura.gonella@epet6realico.edu.ar"
+    },
+    {
+    "materia": "QUÍMICA Y FÍSICA",
+    "docente": "GONELLA Laura",
+    "codigo": "rcebr7i",
+    "email": "laura.gonella@epet6realico.edu.ar"
+    },
+    {
+    "materia": "TALLER DE APLICACIONES TÉCNICAS I",
+    "docente": "PONZIO Fernando",
+    "codigo": "sydzybv",	
+    "email": "fernando.ponzio@epet6realico.edu.ar"
+    }
+]

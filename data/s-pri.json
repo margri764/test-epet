@@ -1,0 +1,87 @@
+
+[
+    {
+        "materia": "LENGUA Y LITERATURA",
+        "docente": "BENVENUTO Cecilia",
+        "codigo": "azagmnl ",	
+        "email": "cecilia.benvenuto@epet6realico.edu.ar"
+        },
+        {
+        "materia": "HISTORIA",
+        "docente": "PAULIZZI Anabella",
+        "codigo": "5a5cdbv",	
+        "email": "anabela.paulizzi@epet6realico.edu.ar"
+        },
+        {
+        "materia": "GEOGRAFÍA",
+        "docente": "BENEFÚ Santiago",	
+        "codigo": "qkpp66t",	
+        "email": "santiago.benefu@epet6realico.edu.ar"
+        },
+        {
+        "materia": "INGLÉS",
+        "docente": "CHIESA Graciela",	
+        "codigo": "eglrmcg",	
+        "email": "graciela.chiesa@epet6realico.edu.ar"
+        },
+        {
+        "materia": "EDUCACIÓN FÍSICA",	
+        "docente": "BLANCO María de las Mercedes",	
+        "codigo": "wbmehyl",	
+        "email": "maria.blanco@epet6realico.edu.ar"
+        },
+        {
+        "materia": "CONSTRUCCIÓN DE LA CIUDADANÍA",	
+        "docente": "PRATO Ana Paula",	
+        "codigo": "Ogoudlt",
+        "email": "ana.prato@epet6realico.edu.ar"
+        },
+        {
+        "materia": "EDUCACIÓN ARTÍSTICA: ARTES VISUALES",	
+        "docente": "MANDRILE Brenda Micaela",	
+        "codigo": "ci5d2lo",	
+        "email": "brenda.mandrile@epet6realico.edu.ar"
+        },  
+        {
+        "materia": "EATE",
+        "docente": "CELUCI Mariela",
+        "codigo": "Grupo A:  rajxs7g   Grupo B: 3oi76rn",		
+        "email": "mariela.celuci@epet6realico.edu.ar"
+        },
+        {
+        "materia": "MATEMÁTICA",	
+        "docente": "GUTIERREZ VALERIA  CRAVERO Mónica",	
+        "codigo": "rkdwpfr ",	
+        "email": "valeria.gutierrez@epet6realico.edu.ar monica.cravero@epet6realico.edu.ar (Suplente Func.)"
+        },
+        {
+        "materia": "BIOLOGÍA",
+        "docente": "ARTOLA Anahí",	
+        "codigo": "fpiq2g7",
+        "email": "anahí.artola@epet6realico.edu.ar"
+        },
+        {
+        "materia": "Química Y FÍSICA",	
+        "docente": "REZZA Sonia",
+        "codigo": "Grupo A:  k3psrv6 Grupo B: 7ic3bcf",	
+        "email": "sonia.rezza@epet6realico.edu.ar"
+        },
+        {
+        "materia": "EDUCACIÓN TECNOLÓGICA",	
+        "docente": "GARÍN Viviana",	
+        "codigo": "gvgphvu",	
+        "email": "viviana.garin@epet6realico.edu.ar"
+        },
+        {
+        "materia": "DIBUJO TECNOLÓGICO",	
+        "docente": "MERLO Celina",		
+        "email": "celina.merlo@epet6realico.edu.ar"
+        },
+        {
+        "materia": "TALLER DE APLICACIONES TÉCNICAS II",	
+        "docente": "MORALES  Daniel ALONSO, Darío",	
+        "codigo": "Grupo A: ycylrrz  Grupo B: gp67rne",	
+        "email": "daniel.morales@epet6realico.edu.ar  dario.alonso@epet6realico.edu.ar"
+        }
+       
+]

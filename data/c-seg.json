@@ -1,0 +1,76 @@
+
+[
+    {
+        "materia": "LENGUA Y LITERATURA",
+        "docente": "MALTEMPO  Aida Leticia",	
+        "codigo": "z6honjm",
+        "email": "aida.maltempo@epet6realico.edu.ar "
+        },
+        {
+        "materia": "MATEMÁTICA",	
+        "docente": "CORELLANO  Antonela",	
+        "codigo": "6lwawkf",	
+        "email": "antonela.corellano@epet6realico.edu.ar " 
+        },
+        {
+        "materia": "GEOGRAFÍA",	
+        "docente": "BERTONE  M. José",	
+        "codigo": "eper36r",	
+        "email": "maria.bertone@epet6realico.edu.ar " 
+        },
+        {
+        "materia": "INGLÉS",	
+        "docente": "TORAL  Lucila",	
+        "codigo": "Grupo A: ggxsw4l  Grupo B: nx4uv5c",	
+        "email": "lucila.toral@epet6realico.edu.ar " 
+        },
+        {
+        "materia": "EDUCACIÓN FÍSICA",
+        "docente": "REZZA  Mauro",
+        "codigo": "yh5dm6a",
+        "email": "mauro.rezza@epet6realico.edu.ar " 
+        },
+        {
+        "materia": "QUÍMICA",	
+        "docente": "SANTUCHO  Laura  BRUSAIN, Analía",	      	
+        "codigo": "Grupo A: wwt4kxq  Grupo B: Ivd6yv3",
+        "email": "laura.santucho@epet6realico.edu.ar (Dispensa Lab.)  || analia.brusain@epet6realico.edu.ar (Pareja Pedagógica)"
+        },
+        {
+        "materia": "FÍSICA",	
+        "docente": "SOSA  Javier",	
+        "codigo": "x47uxps",	
+        "email": "javier.sosa@epet6realico.edu.ar "
+        },
+        {
+        "materia": "MATERIALES",	
+        "docente": "TORRES  Ana",	
+        "codigo": "odpz3gx",	
+        "email": "ana.torres@epet6realico.edu.ar " 
+        },
+        {
+        "materia": "ELECTROTECNIA",	
+        "docente": "ROSSI  Mauro",	
+        "codigo": "wlbf2vy",
+        "email": "mauro.rossi@epet6realico.edu.ar "
+        },
+        {
+        "materia": "DISEÑO ASISTIDO (CAD) ",	
+        "docente": "MERLO Celina",	
+        "codigo": "avqjlet",	
+        "email": "celina.merlo@epet6realico.edu.ar "
+        },
+        {
+        "materia": "TALLER DE INSTALACIONES ELÉCTRICAS",	
+        "docente": "MANASSERO Diego",	
+        "codigo": "zayt5ah",	
+        "email": "diego.manassero@epet6realico.edu.ar "
+        },
+        {
+        "materia": "TALLER DE MECANIZADO",	
+        "docente": "MORALES  Daniel",	       
+        "codigo": "Grupo A: lpozto2  Grupo B: iwmcggs",	
+        "email": "daniel.morales@epet6realico.edu.ar "
+        }
+        
+]

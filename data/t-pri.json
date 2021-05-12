@@ -1,0 +1,87 @@
+
+[
+    {
+    "materia": "LENGUA Y LITERATURA",
+    "docente": "AUDISIO  Elizabeth",	
+    "codigo": "lliu33a",
+    "email": "elizabeth.audisio@epet6realico.edu.ar"
+    },
+    {
+    "materia": "HISTORIA",	
+    "docente": "PAULIZZI Anabela    PALMA Elida Laura",	
+    "codigo": "3e55527",	
+    "email": "anabela.paulizzi@epet6realico.edu.ar (Dispensa Lab.)     elida.palma@epet6realico.edu.ar (Pareja Pedagógica)"
+    },
+    {
+    "materia": "GEOGRAFÍA",	
+    "docente": "MOTTURA  Mariana",	
+    "codigo": "ugmcx6l",	
+    "email":  "mariana.mottura@epet6realico.edu.ar" 
+    },
+    {
+    "materia": "INGLÉS",	
+    "docente": "TORAL Lucila",
+    "codigo": "Grupo A: gpsj7na  Grupo B:  r3tgc6y",	
+    "email": "lucila.toral@epet6realico.edu.ar"
+    },
+    {
+    "materia": " EDUCACIÓN FÍSICA",	
+    "docente": "BLANCO  María de las Mercedes",	
+    "codigo": "lf6cogu",	
+    "email": "maria.blanco@epet6realico.edu.ar"
+    },
+    {
+    "materia": " CONSTRUCCIÓN DE LA CIUDADANÍA",	
+    "docente": "PRATO Ana Paula",	
+    "codigo": "kthdyjk",	
+    "email": "ana.prato@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "EDUCACIÓN ARTÍSTICA: ARTES VISUALES",	
+    "docente": "MANDRILE  Brenda Micaela",
+    "codigo": "n7gjg4w",
+    "email": "brenda.mandrile@epet6realico.edu.ar"
+    },
+    {
+    "materia": " EATE",	
+    "docente": "CELUCI  Mariela",
+    "codigo": "frjnavf",		
+    "email": "mariela.celuci@epet6realico.edu.ar"
+    },
+    {
+    "materia": " MATEMÁTICA",	
+    "docente": "LLAHI DE LA IGLESIA Vanesa",	
+    "codigo": "Grupo A: ktcx763  Grupo B: oyra5ro ",
+    "email": "vanesa.llahi@epet6realico.edu.ar "
+    },
+    {
+    "materia": "BIOLOGÍA",	
+    "docente": "GONELLA  Laura",	
+    "codigo": "shfp245",	
+    "email": "laura.gonella@epet6realico.edu.ar "
+    },
+    {
+    "materia": "QUÍMICA Y FÍSICA",	
+    "docente": "ALONSO, Darío",	
+    "codigo": "g2a4fn6",	
+    "email": "dario.alonso@epet6realico.edu.ar"
+    },
+    {
+    "materia": "EDUCACIÓN TECNOLÓGICA",	
+    "docente": "GARÍN, Viviana",	
+    "codigo": "m4f272n",	
+    "email": "viviana.garin@epet6realico.edu.ar"
+    },
+    {
+    "materia": "DIBUJO TECNOLÓGICO",	
+    "docente": "MERLO Celina",	
+    "codigo": "----------",		
+    "email": "celina.merlo@epet6realico.edu.ar "
+    },
+    {
+    "materia": "TALLER DE APLICACIONES TÉCNICAS III",	
+    "docente": "MANASSERO  Diego    MARITANO Julián",	
+    "codigo": "zqw3t2r",	
+    "email": "diego.manassero@epet6realico.edu.ar      julian.maritano@epet6realico.edu.ar"
+    }
+]

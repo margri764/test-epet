@@ -1,0 +1,82 @@
+
+[
+    {
+    "materia": "LENGUA Y LITERATURA",
+    "docente": "MALDONADO  Lorena",	
+    "codigo":"mnh52ac",	
+    "email": "lorena.maldonado@epet6realico.edu.ar "
+    },
+    {
+    "materia": "MATEMÁTICA",	
+    "docente": "CUELLO  Leticia",	
+    "codigo":"a22vof7",	
+    "email": "leticia.cuello@epet6realico.edu.ar  "
+    },
+    {
+    "materia": "CONSTRUCCIÓN DE LA CIUDADANÍA",	
+    "docente": "PEIRANO  Maricel",	
+    "codigo":"qieacxr",	
+    "email": "maricel.peirano@epet6realico.edu.ar"
+    },
+    {
+    "materia": "INGLÉS",	
+    "docente": "LA CAPRA  M. Angélica",	
+    "codigo":"jx4xqkb",
+    "email": "maria.lacapra@epet6realico.edu.ar  " 
+    },
+    {
+    "materia": "ECONOMÍA",	
+    "docente": "MOLINO  Nadia",
+    "codigo":"dapboib",	
+    "email": "nadia.molino@epet6realico.edu.ar  " 
+    },
+    {
+    "materia": "CAD",	
+    "docente": "MERLO  Celina",	
+    "codigo":"ohhqflx",	
+    "email": "celina.merlo@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "TALLER DE INSTALACIONES ELÉCTRICAS",
+    "docente": "LEGUIZAMÓN  Jonathan",	
+    "codigo":"cj2yv4i",	
+    "email": "jonathan.leguizamon@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "TALLER DE MECANIZADO",	
+    "docente": "CORREAS, Jorge  || MIGLIORE  Marcos",	
+    "codigo":"y22nzzz",
+    "email": "marcelo.griotti@epet6realico.edu.ar (Dispensa Lab.) || marcos.migliore@epet6realico.edu.ar (Pareja Pedagógica) "
+    },
+    {
+    "materia": "PROCESOS INDUSTRIALES",	
+    "docente": "MERLO Celina || LORENZATTI  Ivan",	
+    "codigo":"Ohhqflx",
+    "email": "celina.merlo@epet6realico.edu.ar  || ivan.lorenzatti@epet6realico.edu.ar   " 
+    },
+    {
+    "materia": "LABORATORIO DE MED. Y ENSAYOS MECÁNICOS",	
+    "docente": "ROSSI  Mauro",	
+    "codigo":"zvowrp2",	
+    "email": "mauro.rossi@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "ELEMENTOS DE MÁQUINAS",
+    "docente": "ROSSI  Mauro",	
+    "codigo":"chzcexb",	
+    "email": "mauro.rossi@epet6realico.edu.ar " 
+        },
+    {
+    "materia": "ESTÁTICA Y RESISTENCIA DE LOS MATERIALES",	
+    "docente": "CRAVERO  Mónica",	
+    "codigo":"go5lr76",
+    "email": "monica.creavero@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "LABORATORIO DE MED. Y ENSAYOS ELÉCTRICOS",	
+    "docente": "ESCUDERO  Guillermo",	
+    "codigo":"ogmtg52",	
+    "email": "guillermo.escudero@epet6realico.edu.ar  " 
+    }
+    
+]

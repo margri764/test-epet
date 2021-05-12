@@ -1,0 +1,70 @@
+
+    [
+       {
+        "materia": "PRÁCTICAS PROFESIONALIZANTES",	
+        "docente": "GAREIS  Claudio",	
+        "codigo": "4gupin4",	
+        "email": "regencia.tecnica@epet6realico.edu.ar "
+        },
+        {
+        "materia": "MATEMÁTICA",	
+        "docente": "CORIA  María Raquel",	
+        "codigo": "eggh24u",	
+        "email": "maria.coria@epet6realico.edu.ar"
+        },
+        {
+        "materia": "MARCO JURÍDICO",	
+        "docente": "GONZALEZ  SUAREZ  Brenda",	
+        "codigo": "5ej64mr",
+        "email": "brenda.gonzalez@epet6realico.edu.ar " 
+        },
+        {
+        "materia": "ADMINISTRACIÓN Y GESTIÓN DE LA PRODUCCIÓN",	
+        "docente": "RANGONE  Silvia",	 
+        "codigo": "566kbxy",	
+        "email": "silvia.rangone@epet6realico.edu.ar"
+        },
+        {
+        "materia": "ENERGÍAS RENOVABLES",	
+        "docente": "MORERA  Bárbara",	
+        "codigo": "Retgyob",
+        "email": "barbara.morera@epet6realico.edu.ar"
+        },
+        {
+        "materia": "ELECTRÓNICA",	
+        "docente": "GARRONE  Pablo  ||  Francisco Vissio ",	
+        "codigo": "---------",	
+        "email": "pablo.garrone@epet6realico.edu.ar  || francisco.vissio@epet6realico.edu.ar"
+        },
+        {
+        "materia": "TALLER DE INSTALACIONES ELÉCTRICAS",	
+        "docente": "ESCUDERO  Guillermo",		
+        "codigo": "s6bzysq",	
+        "email": "guillermo.escudero@epet6realico.edu.ar  " 
+        },
+        {
+        "materia": "TALLER DE MECANIZADO",		
+        "docente": "GUTIERREZ  Fernando",		
+        "codigo": "Jbuqian",	
+        "email": "dirección@epet6realico.edu.ar"
+        },
+        {
+        "materia": "MANTENIMIENTO DE EQUIPOS E INSTALACIONES ELECTROMECÁNICAS",	
+        "docente": "LEGUIZAMÓN  Jonathan",		
+        "codigo": "nn53q6k",		
+        "email": "jonathan.leguizamon@epet6realico.edu.ar"
+        },
+        {
+        "materia": "PROYECTO DE EQUIPOS E INSTALACIONES ELECTROMECÁNICAS",		
+        "docente": "ALVAREZ   Martín",		
+        "codigo": "m7u5l3l",		
+        "email": "hector.lucero@epet6realico.edu.ar"
+        },
+        {
+        "materia": "APLICACIÓN DE SISTEMAS AUTOMÁTICOS Y DE CONTROL",		
+        "docente": "GARRONE  Pablo (sin cubrir) ",	
+        "codigo": "----------",	
+        "email": "pablo.garrone@epet6realico.edu.ar"  
+    }
+        
+]

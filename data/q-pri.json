@@ -1,0 +1,74 @@
+
+[
+    {
+    "materia": "LENGUA Y LITERATURA",	
+    "docente": "MALDONADO Lorena",	
+    "codigo": "3aubwvy",	
+    "email": "lorena.maldonado@epet6realico.edu.ar " 
+    },
+    {
+    "materia": "MATEMÁTICA",	
+    "docente": "GUTIERREZ  Valeria ||  CORIA, MARÍA RAQUEL (suplente) ",
+    "codigo": "----------",
+    "email": "monica.cravero@epet6realico.edu.ar (Pareja Pedagógica) || valeria.gutierrez@epet6realico.edu.ar (Dispensa Lab.) "
+    },
+    {
+    "materia": "HISTORIA",	
+    "docente": "PAULIZZI  Anabela",	
+    "codigo": "vp26p52",	
+    "email": "anabela.paulizzi@epet6realico.edu.ar " },
+    {
+    "materia": "INGLÉS",	
+    "docente": "TORAL  Lucila",	
+    "codigo": " 265hxbk",	
+    "email": "lucila.toral@epet6realico.edu.ar " },
+    {
+    "materia": "EDUCACIÓN FÍSICA",	
+    "docente": "DIAZ   Ivana",	
+    "codigo": "ormwubd",	
+    "email": "ivana.diaz@epet6realico.edu.ar " },
+    {
+    "materia": "BIOLOGIA",	
+    "docente": "ARTOLA  Anahí",	
+    "codigo": "nrb7yvd",	
+    "email": "anahí.artola@epet6realico.edu.ar " },
+    {
+    "materia": "FÍSICA",	
+    "docente": "SOSA  Javier",	
+    "codigo": "2aewsqd",	
+    "email": "javier.sosa@epet6realico.edu.ar " },
+    {
+    "materia": "TERMODINÁMICA",	
+    "docente": "GIRAUDO  Miguel",	
+    "codigo": "t5p3hjx",
+    "email": "miguel.giraudo@epet6realico.edu.ar   || mirofloca@gmail.com"
+    },
+    {
+    "materia": "APLICACIÓN DE HIDRÁULICA Y NEUMÁTICA",	
+    "docente": "GIRAUDO  Miguel",	
+    "codigo": "qbp7oqv",	
+    "email": "miguel.giraudo@epet6realico.edu.ar  || mirofloca@gmail.com"
+    },
+    {
+    "materia": "ELECTROTECNIA",	
+    "docente": "ROSSI  Mauro",	
+    "codigo": "aesjteq ",	
+    "email": "mauro.rossi@epet6realico.edu.ar " },
+    {
+    "materia": "DISEÑO ASISTIDO (CAD) ",	
+    "docente": "MERLO  Celina",
+    "codigo": "gdkzhj5",
+    "email": "celina.merlo@epet6realico.edu.ar " },
+    {
+    "materia": "TALLER DE INSTALACIONES ELÉCTRICAS",
+    "docente": "LORENZATTI  Ivan",	
+    "codigo": "5kpwbmj",	
+    "email": "ivan.lorenzatti@epet6realico.edu.ar " },
+    {
+    "materia": "TALLER DE MECANIZADO",	
+    "docente": "PEREZ  Luciano || MIGLIORE, Marcos ",	
+    "codigo": "cg6paue",	
+    "email": "luciano.perez@epet6realico.edu.ar   || marcos.migliore@epet6realico.edu.ar"
+    }
+
+]

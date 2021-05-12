@@ -1,0 +1,80 @@
+
+[
+    {
+        "materia": "LENGUA Y LITERATURA",
+        "docente": "MALTEMPO  Aida Leticia",	
+        "codigo": "o2ersle",	
+        "email": "aida.maltempo@epet6realico.edu.ar"
+        },
+        {
+        "materia": "MATEMÁTICA",	
+        "docente": "GUTIERREZ  Valeria || CRAVERO Mónica  (suplente) ",	
+        "codigo": "gojzf37",	
+        "email": "valeria.gutierrez@epet6realico.edu.ar (Dispensa Lab.) || monica.cravero@epet6realico.edu.ar "
+        },
+        {
+        "materia": "HISTORIA",	
+        "docente": "ORTÍZ  M. Eugenia",	
+        "codigo": "2gicwfl",	
+        "email": "maria.ortiz@epet6realico.edu.ar"
+        },
+        {
+        "materia": "INGLÉS",	
+        "docente": "LEGAZCUE  Laura",	 
+        "codigo": "fvcwls4",
+        "email": "laura.legazcue@epet6realico.edu.ar"
+        },
+        {
+        "materia": "EDUCACIÓN FÍSICA",	
+        "docente": "DIAZ  Ivana",	
+        "codigo": "izhwapr",	
+        "email": "ivana.diaz@epet6realico.edu.ar " },
+        {
+        "materia": "BIOLOGIA",	
+        "docente": "ARTOLA  Anahí",	
+        "codigo": "atqxk5o",	
+        "email": "laura.santucho@epet6realico.edu.ar " },
+        {
+        "materia": "FÍSICA",	
+        "docente": "SALVARREDI  Federico",		
+        "codigo": "p7v2kgv",
+        "email": "federico.salvarredi@epet6realico.edu.ar"
+        },
+        {
+        "materia": "TERMODINÁMICA",	
+        "docente": "GIRAUDO  Miguel",	
+        "codigo": "4e2nrm6",	
+        "email": "miguel.giraudo@epet6realico.edu.ar   || mirofloca@gmail.com"
+        },
+        {
+        "materia": "APLICACIÓN DE HIDRÁULICA Y NEUMÁTICA",	
+        "docente": "GIRAUDO  Miguel",	
+        "codigo": "to6we4s",	
+        "email": "miguel.giraudo@epet6realico.edu.ar   ||  mirofloca@gmail.com"
+        },
+        {
+        "materia": "ELECTROTECNIA",	
+        "docente": "ROSSI  Mauro",	
+        "codigo": "fzuxcfo",	
+        "email": "mauro.rossi@epet6realico.edu.ar "  
+        },
+        {
+        "materia": "DISEÑO ASISTIDO (CAD) ",	
+        "docente": "MERLO Celina",	
+        "codigo": "jhsb3na",
+        "email": "celina.merlo@epet6realico.edu.ar "
+        },
+        {
+        "materia": "TALLER DE INSTALACIONES ELÉCTRICAS",
+        "docente": "LORENZATTI  Ivan",	
+        "codigo": "5kpwbmj",	
+        "email": "ivan.lorenzatti@epet6realico.edu.ar " 
+       },
+        {
+        "materia": "TALLER DE MECANIZADO",	
+        "docente": "PEREZ  Luciano  || MIGLIORE Marcos ",	
+        "codigo": "hx6h3gj",
+        "email": "luciano.perez@epet6realico.edu.ar     ||  marcos.migliore@epet6realico.edu.ar"
+        }
+        
+]
