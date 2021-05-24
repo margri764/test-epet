@@ -40,7 +40,7 @@ body {
 	color: #f9faff;
 } */
 
-	
+
 
 
 #classroom {
@@ -119,6 +119,9 @@ input, select, textarea {
 		html, body {
 			min-width: 320px;
 		}
+	
+
+		
 
 	}
 
@@ -164,6 +167,8 @@ input, select, textarea {
 			body, input, select, textarea {
 				font-size: 14pt;
 			}
+		
+			
 
 		}
 
@@ -172,7 +177,7 @@ input, select, textarea {
 			body, input, select, textarea {
 				font-size: 12pt;
 			}
-
+	
 		}
 
 		@media screen and (max-width: 360px) {
@@ -192,13 +197,11 @@ input, select, textarea {
 				display: block;
 				overflow-x: auto;
 			}
-
-				
-
+	
+	
+			
 		
-
 		}
-
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
@@ -1571,6 +1574,8 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 
+	
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1864,6 +1869,8 @@ input, select, textarea {
 		header.major > p br {
 			display: none;
 		}
+
+		
 
 	}
 
