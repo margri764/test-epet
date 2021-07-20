@@ -2263,10 +2263,12 @@ input, select, textarea {
 			display: block;
 			margin: 2.5em 0;
 			width: 100%;
+	
 		}
 
 			.image.main img {
 				width: 100%;
+			
 			}
 
 			@media screen and (max-width: 736px) {
